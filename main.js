@@ -32,3 +32,5 @@ function calc() {
     // отправляем результат на страницу
     document.getElementById('result').innerText = result
 }
+
+// FBGEAYFSILUK.DHLEVBOILA
